@@ -1,1 +1,1 @@
-Repositorio de desarrollo web
+Repositorio de desarrollo web con propósitos educativos 
